@@ -12,7 +12,7 @@
 - 🌱 Also learning **React Native · Django · Node.js**
 - 🏆 Best Idea Award — MODA Taiwan 2024 | 🥉 3rd Place — Infocruise Hackathon 2024
 - 📄 Research paper accepted at **EUt+ Data & Statistics Workshop 2026**, Italy
-- 💬 Ask me about **JavaScript · Python · AI/ML**
+- 💬 Ask me about **Java · Python · AI/ML**
 - 📫 **esvanth7@gmail.com**
 - ⚡ Fun fact: **I am Funny**
 
